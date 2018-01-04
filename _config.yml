@@ -2,11 +2,10 @@ theme: jekyll-theme-minimal
 
 title: zhblanlan
 author: zhblanlan
-baseurl：zzz
+
 description: head中的网页描述信息。简要描述你的网站，让搜索引擎能更好的收录你的网站。
 email: 你的邮箱地址
 twitter_username: 你的推特用户名
 weibo_username: 你的微博用户名
 github_username: 你的github用户名
 disqus_shortname: 你的disqus帐号
-duoshuo——shortname:你的多说帐号
