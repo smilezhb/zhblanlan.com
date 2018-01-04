@@ -1,7 +1,6 @@
 <head>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<h2> Welcome to zhblanlan'blog</h2>
 
 你现在的生活并不能决定你的未来。
 
