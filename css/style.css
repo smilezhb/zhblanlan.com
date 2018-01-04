@@ -3,6 +3,7 @@ ul{
 }
 ul>li{
   display:inline-block;
+  margin-right:20px;
 }
 li>a{
   text-decoration:none;
