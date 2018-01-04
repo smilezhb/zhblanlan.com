@@ -1,7 +1,6 @@
-## Welcome to zhblanlan'blog Pages
+## Welcome to zhblanlan'blog 
 
-You can use the [editor on GitHub] to maintain and preview the content for your website in Markdown files.
-
+你现在的生活并不能决定你的未来。
 
 
 ### Markdown
