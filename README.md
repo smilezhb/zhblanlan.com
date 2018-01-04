@@ -1,9 +1,7 @@
-## Welcome to zhblanlan'blog 
+<h2> Welcome to zhblanlan'blog</h2>
 
 你现在的生活并不能决定你的未来。
 
-
-### Markdown
 
 <h3>列表</h3>
 <ul>
