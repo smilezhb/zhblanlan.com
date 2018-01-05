@@ -1,0 +1,71 @@
+数据库+实体类（映射数据库中的表）
+crud／
+模糊查询 like的使用
+
+Jdbc + PreparedStatement
+
+mvc概念
+util—-工具类
+entity—实体类
+dao—--封装对数据库的操作（sql语句）
+service—-业务逻辑层
+servlet—控制层
+Jsp—-model层
+
+
+页面跳转及传参
+Jsp->servlet
+表单Form:
+      form表单自己封装数据，使用request.getParameter(“name”);
+超链接a+jsp表达式:
+     <a href=“url?id=<%=id%>”></a>
+     <a href=“url?id=<%=id%>&name=<%=name%”> ></a>
+      
+javascript跳转 :
+      window.location=“xxx?&”+id+”&”+name;
+
+Servlet->jsp
+      request.getRequestDispatcher(“”).forward(request,response);(一次请求)
+      response.sendRedirect(“”);(两次请求)
+
+          
+
+java
+八种基本数据类型
+布尔 boolean
+数值 byte short int long float double
+字符 char
+引用类型
+String,Array
+
+
+数组
+String 
+String[] St = new String[];
+
+
+集合
+set集合
+  无顺序,不包含重复的元素
+
+list集合
+  有顺序以线性方式存储,可以存放重复对象
+map集合
+   一个 Map 中，任意一个 key 都有唯一确定的 value 与其对应，这个 key-value 的映射就是 map。
+   map.put(“a”,”4”); 
+遍历数组
+For（普通型）
+for(int i=0;i<array.length;i++){
+}
+
+遍历集合
+For（属性枚举）
+for(Object object:list){
+}
+
+各种bug问题
+页面404
+NumberFormer null
+设置断点调试
+
+
